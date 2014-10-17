@@ -1,4 +1,4 @@
-hackathon_two
+Hackathon Two
 =============
 
-Mobile Frontend for hackathon_two
+Mobile Frontend for hackathon_two (https://github.com/forsaken1/hackathon_two)
